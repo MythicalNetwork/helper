@@ -1,6 +1,7 @@
 name: helper-lilypad
 author: Luck
 version: ${project.version}
+api-version: 1.16
 description: ${project.description}
 main: me.lucko.helper.lilypad.plugin.HelperLilyPadPlugin
 website: https://github.com/lucko/helper

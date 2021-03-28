@@ -67,7 +67,7 @@ public class PaginatedGuiBuilder {
             .mask("011111110")
             .getMaskedIndexesImmutable();
 
-    public static final MenuScheme DEFAULT_SCHEME = new MenuScheme(StandardSchemeMappings.STAINED_GLASS)
+    public static final MenuScheme DEFAULT_SCHEME = new MenuScheme()
             .mask("100000001")
             .mask("100000001")
             .mask("100000001")

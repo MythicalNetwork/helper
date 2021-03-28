@@ -1,6 +1,7 @@
 name: helper-redis
 author: Luck
 version: ${project.version}
+api-version: 1.16
 description: ${project.description}
 main: me.lucko.helper.redis.plugin.HelperRedisPlugin
 website: https://github.com/lucko/helper
